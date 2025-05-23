@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      const sayilar = [1, 2, 3, 4, 6, 5, 8, 9, 67, 68];
+
+      const urunler = [
+        { urunAdı: "iphone 11 ", fiyat: 1000 },
+        { urunAdı: "iphone 12 ", fiyat: 2000 },
+        { urunAdı: "iphone 13 ", fiyat: 3000 },
+        { urunAdı: "iphone 14 ", fiyat: 4000 },
+      ];
+
+      //   const tekSayilar = sayilar.filter((sayi) => sayi % 2 == 1);
+      //   const tekSayilar = sayilar.map((sayi) => sayi % 2 == 1);
+      //   console.log(tekSayilar);
+
+      // const sonuc = urunler.map(urun => urun.urunAdı);
+      //   const sonuc = urunler.filter((urun) => urun.fiyat > 2000).map(urun => urun.urunAdı);
+
+    //   const sonuc = urunler.find((urun) => urun.fiyat > 1500);
+      const sonuc = urunler.findIndex((urun) => urun.fiyat > 1500);
+      console.log(sonuc);
+    </script>
+  </body>
+</html>
