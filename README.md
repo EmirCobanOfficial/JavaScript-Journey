@@ -1,30 +1,55 @@
 # 📘 JavaScript Öğrenim Notları ve Uygulamaları
 
-Bu depo, JavaScript öğrenme sürecim boyunca yaptığım uygulamaları, alıştırmaları ve mini projeleri içermektedir. Temel konulardan başlayarak DOM, OOP ve küçük projelere kadar geniş bir yelpazeyi kapsamaktadır.
+Bu depo, JavaScript öğrenme sürecim boyunca yaptığım ders notları, örnekler ve mini projeleri içermektedir. Temelden ileri seviyeye kadar birçok konuyu kapsayan bu çalışma, hem öğrenme sürecimi belgelemekte hem de benzer yolda ilerleyen geliştiricilere kaynak olmayı hedeflemektedir.
 
-## 📂 Klasörler ve İçerikleri
+## 📁 Klasörler ve İçerikleri
 
-- `2-selecting-single_element`: Tekil HTML elementlerinin JavaScript ile seçimi.
-- `3-DOM-yapısı`: DOM (Document Object Model) hakkında temel yapılar ve kullanım örnekleri.
-- `3_js_kodlama`: Çeşitli JavaScript kodlama pratikleri.
-- `4-OOP`: Nesne Tabanlı Programlama (OOP) prensipleri ve örnek uygulamalar.
-- `6-properties`: JavaScript'te nesne özellikleri ve detaylı kullanımı.
-- `QuizApp`: Zaman sınırlı, skor hesaplamalı bir quiz (soru-cevap) uygulaması.
-- `shopping-list/proje-hazirligi`: Alışveriş listesi uygulamasına ait proje hazırlığı ve planlama adımları.
+### 🟦 `2-selecting-single_element`
+- HTML'den tek bir elementi JavaScript ile seçme yöntemleri (`getElementById`, `querySelector`).
 
-## 🎯 Amaç
+### 🟦 `3-DOM-yapısı`
+- DOM (Document Object Model) kavramı ve temel yapılar.
+- DOM üzerinden içerik okuma ve değiştirme.
 
-Bu depo, JavaScript'i öğrenme ve pekiştirme sürecimi desteklemek amacıyla oluşturulmuştur. Hem kendim hem de bu yolda ilerleyen diğer geliştiriciler için kaynak oluşturması hedeflenmektedir.
+### 🟦 `3_js_kodlama`
+- Temel JavaScript sözdizimi, değişkenler, veri tipleri, kontrol yapıları, döngüler gibi giriş konuları.
+
+### 🟦 `4-OOP`
+- Nesne Tabanlı Programlama (OOP) yapıları.
+- Constructor fonksiyonlar, prototip kullanımı.
+
+### 🟦 `6-properties`
+- Obje özellikleri, get/set metodları ve property tanımlamaları.
+
+### 🟦 `QuizApp`
+- Zaman sınırlı sorular, skor ekranı ve Bootstrap ile şık bir kullanıcı arayüzüne sahip Quiz uygulaması.
+
+### 🟦 `shopping-list/proje-hazirligi`
+- Alışveriş listesi uygulaması için proje yapısı ve ön hazırlıklar.
+
+### 🟦 `Modern Javascript`
+Modern JavaScript (ES6 ve sonrası) konularına dair örnek HTML dosyaları:
+- `array.html`: Array metodları (map, filter, reduce vb.)
+- `arrow-functions.html`: Ok fonksiyonları (arrow functions)
+- `class.html`: Class yapısı ve örnekleri
+- `destructuring.html`: Destructuring assignment kullanımı
+- `getter-setter.html`: Getter ve Setter metodları
+- `inheritance.html`: Kalıtım (Inheritance)
+- `maps.html`: Map veri yapısı
+- `sets.html`: Set veri yapısı
+- `spread-operator.html`: Spread ve Rest operatörleri
 
 ## 🚀 Kullanılan Teknolojiler
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Bootstrap (bazı projelerde)
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Bootstrap 5** *(Bazı projelerde)*
 
-## 📌 Notlar
+## 🎯 Amaç
 
-- Her klasör kendi içinde örnek dosyalar ve açıklamalar içerebilir.
-- İlerleyen dönemde bu projelere yeni özellikler eklemeyi ve yeni klasörler oluşturmayı planlıyorum.
+Kendi öğrenme sürecimi takip etmek, konuları uygulayarak pekiştirmek ve benzer konularda çalışanlara rehber olması için açık bir kaynak oluşturmaktır.
 
+## 🛠️ Geliştirme Notu
+
+Bu depo hâlâ geliştirilmektedir. Yeni konular eklendikçe klasör ve içerikler güncellenmeye devam edecektir.
