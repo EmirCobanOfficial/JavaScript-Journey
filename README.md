@@ -1,55 +1,77 @@
-# 📘 JavaScript Öğrenim Notları ve Uygulamaları
+# 📘 JavaScript Journey - Learning Notes & Practice Projects
 
-Bu depo, JavaScript öğrenme sürecim boyunca yaptığım ders notları, örnekler ve mini projeleri içermektedir. Temelden ileri seviyeye kadar birçok konuyu kapsayan bu çalışma, hem öğrenme sürecimi belgelemekte hem de benzer yolda ilerleyen geliştiricilere kaynak olmayı hedeflemektedir.
+This repository contains my personal learning notes, exercises, and mini projects developed during my JavaScript learning journey. It covers a wide range of topics from beginner to advanced levels, aiming to both document my progress and serve as a resource for other developers on a similar path.
 
-## 📁 Klasörler ve İçerikleri
+Bu depo, JavaScript öğrenme sürecim boyunca oluşturduğum notları, örnekleri ve mini projeleri içerir. Temelden ileri düzeye birçok konuyu kapsar ve başkalarına rehber olmayı hedefler.
+
+---
+
+## 📁 Folders & Content / Klasörler ve İçerikleri
 
 ### 🟦 `2-selecting-single_element`
-- HTML'den tek bir elementi JavaScript ile seçme yöntemleri (`getElementById`, `querySelector`).
+- Selecting single elements in HTML using JavaScript (`getElementById`, `querySelector`).
 
 ### 🟦 `3-DOM-yapısı`
-- DOM (Document Object Model) kavramı ve temel yapılar.
-- DOM üzerinden içerik okuma ve değiştirme.
+- Introduction to the Document Object Model (DOM).
+- Reading and modifying content via DOM methods.
 
 ### 🟦 `3_js_kodlama`
-- Temel JavaScript sözdizimi, değişkenler, veri tipleri, kontrol yapıları, döngüler gibi giriş konuları.
+- Basic JavaScript syntax, variables, data types, conditionals, loops, and more.
 
 ### 🟦 `4-OOP`
-- Nesne Tabanlı Programlama (OOP) yapıları.
-- Constructor fonksiyonlar, prototip kullanımı.
+- Object-Oriented Programming concepts.
+- Constructor functions and prototype usage.
 
 ### 🟦 `6-properties`
-- Obje özellikleri, get/set metodları ve property tanımlamaları.
+- Object properties, getters/setters, and defining custom properties.
 
 ### 🟦 `QuizApp`
-- Zaman sınırlı sorular, skor ekranı ve Bootstrap ile şık bir kullanıcı arayüzüne sahip Quiz uygulaması.
+- A quiz application with countdown timer, score screen, and modern Bootstrap-based UI.
 
 ### 🟦 `shopping-list/proje-hazirligi`
-- Alışveriş listesi uygulaması için proje yapısı ve ön hazırlıklar.
+- Initial planning and folder structure for the shopping list app.
 
 ### 🟦 `Modern Javascript`
-Modern JavaScript (ES6 ve sonrası) konularına dair örnek HTML dosyaları:
-- `array.html`: Array metodları (map, filter, reduce vb.)
-- `arrow-functions.html`: Ok fonksiyonları (arrow functions)
-- `class.html`: Class yapısı ve örnekleri
-- `destructuring.html`: Destructuring assignment kullanımı
-- `getter-setter.html`: Getter ve Setter metodları
-- `inheritance.html`: Kalıtım (Inheritance)
-- `maps.html`: Map veri yapısı
-- `sets.html`: Set veri yapısı
-- `spread-operator.html`: Spread ve Rest operatörleri
+Practice HTML files covering ES6+ features:
+- `array.html`: Array methods (map, filter, reduce, etc.)
+- `arrow-functions.html`: Arrow functions
+- `class.html`: Class-based structure and examples
+- `destructuring.html`: Destructuring assignment
+- `getter-setter.html`: Using getter and setter methods
+- `inheritance.html`: Class inheritance
+- `maps.html`: Map data structure
+- `sets.html`: Set data structure
+- `spread-operator.html`: Spread & Rest operators
 
-## 🚀 Kullanılan Teknolojiler
+---
+
+## 🚀 Technologies Used / Kullanılan Teknolojiler
 
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
-- **Bootstrap 5** *(Bazı projelerde)*
+- **Bootstrap 5** *(in some projects)*
 
-## 🎯 Amaç
+---
 
-Kendi öğrenme sürecimi takip etmek, konuları uygulayarak pekiştirmek ve benzer konularda çalışanlara rehber olması için açık bir kaynak oluşturmaktır.
+## 🎯 Purpose / Amaç
 
-## 🛠️ Geliştirme Notu
+To track my learning journey, reinforce topics through hands-on practice, and provide an open-source resource for others working on similar topics.
 
-Bu depo hâlâ geliştirilmektedir. Yeni konular eklendikçe klasör ve içerikler güncellenmeye devam edecektir.
+Kendi öğrenme sürecimi takip etmek, konuları uygulayarak pekiştirmek ve benzer konularda çalışanlara açık bir kaynak sunmak.
+
+---
+
+## 🛠️ Development Note / Geliştirme Notu
+
+This repository is actively maintained. New folders and content will be added as I explore more JavaScript topics.
+
+Bu depo hâlâ geliştirilmektedir. Yeni konular eklendikçe içerikler güncellenmeye devam edecektir.
+
+---
+
+## 📬 Contact
+
+📧 emircobanoffical@gmail.com  
+🔗 [GitHub - EmirCobanOfficial](https://github.com/emircobanofficial)  
+🔗 [LinkedIn - Emir Çoban](https://www.linkedin.com/in/emir-%C3%A7oban-4980532a4/)
